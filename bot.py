@@ -2,9 +2,9 @@ import pyautogui
 import time
 
 mensajes = [
-    "potato.start uwunt",
-    "uwu",
-    "potato",
+    "Hi",
+    "Hi",
+    "hi",
     "https://tenor.com/view/mwa-gif-20960109",
     "uwu",
     "https://tenor.com/view/mwa-gif-20960109",
@@ -12,7 +12,7 @@ mensajes = [
     "https://tenor.com/view/mwa-gif-20960109",
     "uwu",
     "https://tenor.com/view/mwa-gif-20960109",
-    "AGAIN!"
+    "repeat!"
 ]
 
 time.sleep(1)  # Time to select the bar
